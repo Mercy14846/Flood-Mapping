@@ -1,2 +1,2 @@
 # Flood-Mapping
-Using Landsat 8
+Using three difference satellite imageries 
