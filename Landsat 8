@@ -1,6 +1,6 @@
 //print(AOI.size()); 
 //Map.addLayer(basin, {'color': 'white'}, 'basin')
-Map.centerObject(AOI, 8);
+Map.centerObject(AOI, 6);
 Map.setOptions('Terrain');
 
 var basinAreaOutline = ee.Image().byte().paint({ 
